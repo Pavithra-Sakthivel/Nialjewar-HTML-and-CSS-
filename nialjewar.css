@@ -1,0 +1,143 @@
+*{
+    margin: 0px;
+}
+.logo{
+    transform: translate(-10px);
+}
+.navbar{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    padding: 0px 150px;
+    margin-top: 10px;
+}
+.option1{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 50px;
+}
+.home{
+    transform: translate(-1px);
+}
+.tenders{
+    transform: translate(1px);
+}
+.contact{
+    transform: translate(14px);
+}
+.select{
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+.image img{
+    height: 400px;
+    width: 1480px;
+    margin-top: 10px;
+}
+.nav1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+    margin-top: 10px;
+    background-color: white;
+    padding: 0px 5px;
+    margin-left: 12px;
+}
+.table2{
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    color: white;
+    height: 30px;
+}
+.m1>span{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+.table{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    align-items: center;
+}
+.table1{
+    background-color: yellow;
+    height: 30px;
+    margin-left: 30px;
+  
+}
+.sub1 img{
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    justify-content: space-between;
+    top: 100px;
+
+}
+.sub2 img{
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    justify-content: space-between;
+    top: 100px;
+
+}
+.sub3 img{
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    justify-content: space-between;
+    top: 100px;
+
+}
+.sub4 img{
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    justify-content: space-between;
+    top: 100px;
+
+}
+.section4{
+    display: flex;
+    margin-top: 20px;
+    border: 100px;
+    padding: 0px 100px;
+    border: 20px;
+    background-color: bisque;
+}
+sub1 span{
+    display: flex;
+    justify-content: center;
+}
+.sub1{
+    height: 50px ;
+    width: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+ }
+ .sub2{
+    height: 50px ;
+    width: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+ }
+ .sub3{
+    height: 50px ;
+    width: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+ }
+ .sub4{
+    height: 50px ;
+    width: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+ }
